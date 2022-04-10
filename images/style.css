@@ -1,0 +1,26 @@
+#name{
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+#basic-title{
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+#photo{
+  width: 50%;
+
+}
+#basic-information{
+  display: flex;
+  justify-content: center;
+}
+#information{
+  display: inline-block;
+  margin-top: 15px;
+}
