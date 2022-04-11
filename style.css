@@ -50,6 +50,7 @@
     font-size: 1.3rem;
   }
   
+  
   #tech-title {
     text-align: center;
   }
@@ -83,3 +84,9 @@
   html {
     background-color: #c5d5c5;
   }
+
+  .defauit {
+    background-color: beige;
+    padding: 4rem;
+    margin: 3rem;
+    border-radius: 4rem;
